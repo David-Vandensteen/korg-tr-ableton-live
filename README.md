@@ -13,3 +13,12 @@ This configuration bind the **Korg TR** knobs to the instrument rack macros on *
 * ASSIGNABLE 2 --> **CC19**
 * ASSIGNABLE 3 --> **CC20**
 * ASSIGNABLE 4 --> **CC21**
+
+## Install
+Copy `live11\Korg TR` folder to :
+
+### Mac
+- `HD:/Users/[Username]/Library/Preferences/Ableton/Live x.x.x/User Remote Scripts`
+
+### Windows
+- `C:\Users[Username]\AppData\Roaming\Ableton\Live x.x.x\Preferences\User Remote Scripts`
